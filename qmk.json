@@ -1,22 +1,7 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["ploopyco/pavonis", "default"],
-        ["ploopyco/pavonis", "debug"],
-        ["ploopyco/pavonis", "stylus"],
-        ["ploopyco/pavonis", "taps_as_clicks"],
-        ["ploopyco/pavonis", "alt_hold"],
-        ["ploopyco/pavonis", "high_polling_rate"],
-        ["georgen/peacock/v1_00", "debug"],
-        ["georgen/peacock/v1_01", "debug"],
-        ["georgen/peacock/v1_01", "default"],
-        ["georgen/peacock/v1_00", "default"],
-        ["georgen/peacock/v1_00", "acrylic"],
-        ["georgen/peacock/v1_01", "acrylic"],
-        ["georgen/peacock/v1_00", "stylus"],
-        ["georgen/peacock/v1_01", "stylus"],
-        ["bastardkb/dilemma/3x5_3_procyon", "default"],
-	["handwired/onekey/rp2040", "digitizer"]
 
+        ["bastardkb/dilemma/3x5_3_procyon", "default"]
     ]
 }
